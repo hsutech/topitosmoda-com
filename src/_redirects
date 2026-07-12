@@ -1,3 +1,5 @@
-/about/ /sobre-nosotras/ 301
-/contact/ /contacto/ 301
-/category/* /colecciones/ 301
+/tienda/* /colecciones/ 301
+/infantil/ /moda-infantil/ 301
+/contacto/index.html /contacto/ 301
+/contact/index.html /contact/ 301
+/* /404.html 404
