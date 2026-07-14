@@ -1,16 +1,26 @@
 {
   "domain": "topitosmoda.com",
   "last_run": "2026-07-14",
-  "published": [],
-  "skipped": [],
-  "pending_verification": [
+  "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
       "slug": "mejores-tiendas-moda-infantil-las-palmas",
       "title": "Mejores tiendas de moda infantil en Las Palmas",
       "url": "https://topitosmoda.com/blog/mejores-tiendas-moda-infantil-las-palmas/",
-      "status": "draft_local",
-      "selected_at": "2026-07-14",
+      "published_at": "2026-07-14",
+      "status": "published",
+      "verified_at": "2026-07-14",
+      "verified_commit": "dae3688",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "h1": "Mejores tiendas de moda infantil en Las Palmas.",
+        "canonical": "https://topitosmoda.com/blog/mejores-tiendas-moda-infantil-las-palmas/",
+        "desktop_render": "ok at 1440x1000, no horizontal overflow",
+        "mobile_render": "ok at 390x844, no horizontal overflow"
+      },
       "serp_observations": {
         "market": "Google ES / Las Palmas y Canarias",
         "intent": "local commercial BOFU: compare stores, locations, product fit and buying criteria",
@@ -27,8 +37,9 @@
         "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas",
         "https://www.mayoral.com/es/es/stores",
         "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1007"
-      ],
-      "notes": "Move to published only after deployment verification on custom domain."
+      ]
     }
-  ]
+  ],
+  "skipped": [],
+  "pending_verification": []
 }
