@@ -36,9 +36,11 @@
     .note-box{border-top:1px solid hsl(var(--border));border-bottom:1px solid hsl(var(--border));padding:1.25rem 0;margin:2rem 0;font-style:italic}
     .article-hero-grid{display:grid;gap:2.5rem;align-items:end}
     .article-hero-copy,.article-hero-media{min-width:0}
+    .article-hero-copy h1{letter-spacing:0;overflow-wrap:break-word}
+    .article-hero-copy p{max-width:100%;overflow-wrap:break-word}
     .article-hero-media img{width:100%;aspect-ratio:16/10;object-fit:cover}
     @media (min-width:768px){.article-hero-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}}
-    @media (max-width:700px){.article-content{font-size:16px}.article-content h2{font-size:2rem}.article-content table{display:block;overflow-x:auto;white-space:normal}}
+    @media (max-width:700px){.article-hero-grid{gap:2rem}.article-hero-copy h1{font-size:2.5rem;line-height:1.03}.article-hero-copy .article-hero-date{font-size:10px;letter-spacing:.12em;line-height:1.6}.article-content{font-size:16px}.article-content h2{font-size:2rem}.article-content table{display:block;overflow-x:auto;white-space:normal}}
   </style>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Topitos Moda","url":"https://topitosmoda.com","email":"hola@topitosmoda.com","logo":"https://topitosmoda.com/assets/logo-topitos-BkFw5MaQ.png"}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Mejores boutiques en Las Palmas de Gran Canaria","description":"Guía para elegir entre las mejores boutiques en Las Palmas de Gran Canaria según estilo, ocasión, zona, cambios y asesoramiento.","author":{"@type":"Organization","name":"Topitos Moda"},"publisher":{"@type":"Organization","name":"Topitos Moda","logo":{"@type":"ImageObject","url":"https://topitosmoda.com/assets/logo-topitos-BkFw5MaQ.png"}},"datePublished":"2026-07-16","dateModified":"2026-07-16","mainEntityOfPage":"https://topitosmoda.com/blog/mejores-boutiques-las-palmas-de-gran-canaria/","image":"https://topitosmoda.com/assets/mejores-boutiques-las-palmas.jpg"}</script>
@@ -56,7 +58,7 @@
             <span class="mb-5 block text-[11px] font-medium uppercase tracking-[0.3em] text-primary">Guía local · Boutiques</span>
             <h1 class="text-balance font-display text-5xl leading-[0.95] tracking-tighter md:text-7xl">Mejores boutiques en Las Palmas de Gran Canaria.</h1>
             <p class="mt-7 max-w-xl text-lg leading-relaxed text-muted-foreground">Una guía práctica para elegir boutique según zona, tipo de prenda, ocasión, asesoramiento, cambios y estilo de compra.</p>
-            <p class="mt-5 text-[11px] uppercase tracking-[0.24em] text-muted-foreground">Equipo Topitos Moda · Actualizado 16 julio 2026</p>
+            <p class="article-hero-date mt-5 text-[11px] uppercase tracking-[0.24em] text-muted-foreground">Equipo Topitos Moda · Actualizado 16 julio 2026</p>
           </div>
           <div class="article-hero-media">
             <img src="/assets/mejores-boutiques-las-palmas.jpg" alt="Boutique luminosa con vestidos, lino, punto y complementos en Las Palmas de Gran Canaria" width="1568" height="980" class="aspect-[16/10] w-full object-cover">
