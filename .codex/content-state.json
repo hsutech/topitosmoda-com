@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-07-14",
+  "last_run": "2026-07-16",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -37,6 +37,43 @@
         "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas",
         "https://www.mayoral.com/es/es/stores",
         "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32011R1007"
+      ]
+    },
+    {
+      "keyword": "mejores boutiques en Las Palmas de Gran Canaria",
+      "slug": "mejores-boutiques-las-palmas-de-gran-canaria",
+      "title": "Mejores boutiques en Las Palmas de Gran Canaria",
+      "url": "https://topitosmoda.com/blog/mejores-boutiques-las-palmas-de-gran-canaria/",
+      "published_at": "2026-07-16",
+      "status": "published",
+      "verified_at": "2026-07-16",
+      "verified_commit": "d626c79",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "h1": "Mejores boutiques en Las Palmas de Gran Canaria.",
+        "canonical": "https://topitosmoda.com/blog/mejores-boutiques-las-palmas-de-gran-canaria/",
+        "desktop_render": "ok in public Browser check at 1280x720, no horizontal overflow, hero image loaded",
+        "mobile_render": "ok in Chrome headless screenshot at 390x844 after mobile width fixes, no text clipping visible"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias",
+        "intent": "local commercial BOFU: compare boutiques, shopping zones and purchase formats in Las Palmas de Gran Canaria",
+        "page_types_seen": [
+          "commercial-zone and shopping association pages",
+          "department-store/local center pages",
+          "directories and weak local listings",
+          "regional fashion/news pages about Canarian design"
+        ],
+        "coverage_gap": "The SERP has little editorial comparison explaining which Las Palmas boutique zone or format fits each purchase need; most results are directories, centers or individual entities."
+      },
+      "sources": [
+        "https://zonatriana.com/",
+        "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-jose-mesa-y-lopez",
+        "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas",
+        "https://cadenaser.com/canarias/2025/06/02/la-moda-canaria-celebra-en-madrid-su-primer-shopping-weekend-radio-la-palma/"
       ]
     }
   ],
