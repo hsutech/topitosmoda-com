@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-07-16",
+  "last_run": "2026-07-21",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -74,6 +74,55 @@
         "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-jose-mesa-y-lopez",
         "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas",
         "https://cadenaser.com/canarias/2025/06/02/la-moda-canaria-celebra-en-madrid-su-primer-shopping-weekend-radio-la-palma/"
+      ]
+    },
+    {
+      "keyword": "mejores vestidos de niña",
+      "slug": "mejores-vestidos-de-nina",
+      "title": "Mejores vestidos de niña: 10 opciones para elegir bien",
+      "url": "https://topitosmoda.com/blog/mejores-vestidos-de-nina/",
+      "published_at": "2026-07-21",
+      "status": "published",
+      "verified_at": "2026-07-21T19:09:41+02:00",
+      "verified_commit": "d8d6673",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "h1": "Mejores vestidos de niña: 10 opciones para elegir bien.",
+        "canonical": "https://topitosmoda.com/blog/mejores-vestidos-de-nina/",
+        "image": "https://topitosmoda.com/assets/mejores-vestidos-de-nina.jpg",
+        "blog_index": "contains /blog/mejores-vestidos-de-nina/",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-vestidos-de-nina/",
+        "desktop_render": "ok at 1440x1000, no page horizontal overflow, featured image loaded",
+        "mobile_render": "ok at 390x844, no page horizontal overflow, featured image loaded; comparison table remains contained in its scroll area"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-07-21",
+        "intent": "commercial BOFU: compare girls dresses by occasion, ceremony, fabric, sizing, comfort, climate, online buying confidence and return-risk reduction",
+        "page_types_seen": [
+          "ecommerce category pages with large product grids and filters from Zalando and El Corte Ingles",
+          "ceremony and occasion subcategories focused on product availability, colors, sizes and brands",
+          "product detail pages with fit, composition, care and delivery/change details",
+          "weak editorial coverage compared with catalog pages; little neutral buying guidance by use case"
+        ],
+        "coverage_gap": "Top results emphasize catalogs, filters, products and prices more than a neutral framework for choosing by comfort, fabric, movement, climate, sizing and change-policy risk.",
+        "first_results_reviewed": [
+          "Zalando vestidos de ceremonia para nina: category page with 512+ items, filters by size, age, brand, color, price, sleeve, material and occasion, plus short SEO copy and product imagery.",
+          "El Corte Ingles ceremonia nina and vestidos nina: category/product-grid pages with high product count, filters and brand-led retail intent.",
+          "Zalando Mango Kids product page: product-detail SERP result with fit guidance, composition, care, delivery and return information.",
+          "Sarenza faldas y vestidos nina: retail category structure with filters, guide/FAQ signals and online purchase support."
+        ]
+      },
+      "sources": [
+        "https://www.zalando.es/vestidos-ceremonia-nina/",
+        "https://www.elcorteingles.es/moda-infantil/ceremonia/nina/",
+        "https://www.elcorteingles.es/moda-infantil/nina/vestidos/44/",
+        "https://www.zalando.es/mango-kids-kid-vestido-de-fiesta-wit-ay523f0qm-a11.html",
+        "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+        "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=&l=C649I",
+        "https://www.sarenza.com/es/es/ninos/nina-de-3-a-16-anos/faldas-y-vestidos-225/"
       ]
     }
   ],
