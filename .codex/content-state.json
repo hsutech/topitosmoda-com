@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-07-21",
+  "last_run": "2026-07-22",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -123,6 +123,56 @@
         "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
         "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=&l=C649I",
         "https://www.sarenza.com/es/es/ninos/nina-de-3-a-16-anos/faldas-y-vestidos-225/"
+      ]
+    },
+    {
+      "keyword": "mejores marcas de ropa infantil cómoda",
+      "slug": "mejores-marcas-ropa-infantil-comoda",
+      "title": "Mejores marcas de ropa infantil cómoda: 10 opciones",
+      "url": "https://topitosmoda.com/blog/mejores-marcas-ropa-infantil-comoda/",
+      "published_at": "2026-07-22",
+      "status": "published",
+      "verified_at": "2026-07-22T19:22:00+02:00",
+      "verified_commit": "f2ed488",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "h1": "Mejores marcas de ropa infantil cómoda: 10 opciones.",
+        "canonical": "https://topitosmoda.com/blog/mejores-marcas-ropa-infantil-comoda/",
+        "image": "https://topitosmoda.com/assets/mejores-marcas-ropa-infantil-comoda.jpg",
+        "blog_index": "contains /blog/mejores-marcas-ropa-infantil-comoda/",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-marcas-ropa-infantil-comoda/",
+        "desktop_render": "ok at 1440x1000, expected H1 and featured image visible, no obvious overlap",
+        "mobile_render": "ok at 390x844, no right-edge overflow after answer-box CSS fix, featured image loaded"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-07-22",
+        "intent": "commercial BOFU: compare comfortable children's clothing brands by use case, fabric, sizing, durability, certifications and purchase risk",
+        "page_types_seen": [
+          "editorial listicles of Spanish children's clothing brands",
+          "organic cotton and sustainability-focused brand roundups",
+          "multibrand ecommerce category pages with brand lists and filters",
+          "official brand/category pages emphasizing comfort, movement, cotton, quality and age ranges"
+        ],
+        "coverage_gap": "Top results list many brands but often lack a transparent comfort-first framework by baby, daily basics, school, ceremony, textile label, certification and local fitting needs.",
+        "first_results_reviewed": [
+          "Kidi Kids: long listicle of Spanish children's clothing brands with an index and many brand sections, but broad quality claims and affiliate context.",
+          "Chelo's Moda Infantil: retail blog listicle focused on Spanish brands, quality, production and sustainability, with store navigation and brand categories.",
+          "UpHavin: organic-cotton brand roundup with sustainability angle and GOTS-oriented advice.",
+          "Okaidi, Mayoral and Rapife official pages: brand/category pages with comfort, age-range, cotton, ergonomic, quality or certification signals."
+        ]
+      },
+      "sources": [
+        "https://www.kidikids.es/marcas-ropa-infantil-espanolas",
+        "https://www.chelosmodainfantil.com/blog/las-mejores-marcas-de-moda-infantil",
+        "https://uphavin.com/es/blogs/familia/kids-fashion-brands-using-organic-cotton",
+        "https://www.mayoral.com/es/es/",
+        "https://www.okaidi.es/",
+        "https://rapife.com/empresa/",
+        "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+        "https://www.oeko-tex.com/en/our-standards/oeko-tex-standard-100"
       ]
     }
   ],
