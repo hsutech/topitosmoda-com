@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-07-23",
+  "last_run": "2026-07-24",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -223,6 +223,58 @@
         "https://www.serpadres.es/ocio/10338.html",
         "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo",
         "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm"
+      ]
+    },
+    {
+      "keyword": "mejores vestidos para mujer en Canarias",
+      "slug": "mejores-vestidos-mujer-canarias",
+      "title": "Mejores vestidos para mujer en Canarias: 10 opciones",
+      "url": "https://topitosmoda.com/blog/mejores-vestidos-mujer-canarias/",
+      "published_at": "2026-07-24",
+      "status": "published",
+      "verified_at": "2026-07-24T19:15:30+02:00",
+      "verified_commit": "6e21187",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Mejores vestidos para mujer en Canarias: 10 opciones.",
+        "canonical": "https://topitosmoda.com/blog/mejores-vestidos-mujer-canarias/",
+        "image": "https://topitosmoda.com/assets/mejores-vestidos-mujer-canarias.jpg",
+        "blog_index": "contains /blog/mejores-vestidos-mujer-canarias/",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-vestidos-mujer-canarias/",
+        "desktop_render": "ok at 1440x1000, expected H1 and featured image visible, no obvious overlap",
+        "mobile_render": "ok at 390x844, expected H1 and featured image visible, no obvious overlap"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-07-24",
+        "intent": "commercial BOFU: compare women dresses in Canarias by occasion, local shopping, online purchase confidence, climate, fabric and returns",
+        "page_types_seen": [
+          "local fashion boutiques with categories for vestidos, conjuntos and complementos",
+          "ecommerce catalog pages showing midi and long dresses with product grids and prices",
+          "event/invitada and bridal store pages with appointment-led commercial intent",
+          "boho/Canary online stores emphasizing shipping to Canarias and summer/coastal style"
+        ],
+        "coverage_gap": "Top results provide catalogs and store claims, but little neutral comparison by dress type, climate, fabric label, repeat use, local fitting and return risk.",
+        "first_results_reviewed": [
+          "Ikigai Canary Shop: local women fashion shop with categories including vestidos, conjuntos, faldas and complementos, plus assistance and Canary shipping signals.",
+          "Rennata Boutique: ecommerce boutique with product-grid focus for vestidos midi, largos, conjuntos and accessories.",
+          "Pronovias Las Palmas and Besito Volao: event/invitada/fiesta results with appointment or specialist boutique intent.",
+          "Only Love by Euforia and Elba Luna: Canary boutique signals around boho, local design, accessories, shipping and Triana commerce."
+        ],
+        "youtube_video": "not included; no current YouTube result found that materially improved the buying decision beyond source links and article criteria"
+      },
+      "sources": [
+        "https://ikigaicanaryshop.com/",
+        "https://www.rennataboutique.com/",
+        "https://www.pronovias.com/es/tiendas/las-palmas",
+        "https://www.besitovolao.es/",
+        "https://www.onlylovebyeuforia.com/",
+        "https://elbaluna.es/",
+        "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+        "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo"
       ]
     }
   ],
