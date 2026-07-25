@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-07-24",
+  "last_run": "2026-07-25",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -275,6 +275,58 @@
         "https://elbaluna.es/",
         "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
         "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo"
+      ]
+    },
+    {
+      "keyword": "mejores conjuntos infantiles para eventos",
+      "slug": "mejores-conjuntos-infantiles-para-eventos",
+      "title": "Mejores conjuntos infantiles para eventos: 10 opciones",
+      "url": "https://topitosmoda.com/blog/mejores-conjuntos-infantiles-para-eventos/",
+      "published_at": "2026-07-25",
+      "status": "published",
+      "verified_at": "2026-07-25T19:14:00+02:00",
+      "verified_commit": "ec037fb",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Mejores conjuntos infantiles para eventos: 10 opciones.",
+        "canonical": "https://topitosmoda.com/blog/mejores-conjuntos-infantiles-para-eventos/",
+        "image": "https://topitosmoda.com/assets/mejores-conjuntos-infantiles-eventos.jpg",
+        "blog_index": "contains /blog/mejores-conjuntos-infantiles-para-eventos/",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-conjuntos-infantiles-para-eventos/",
+        "desktop_render": "ok at 1440x1000, expected H1 and featured image visible, no obvious overlap",
+        "mobile_render": "ok at 390x844, expected H1 and featured image visible, no obvious overlap"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-07-25",
+        "intent": "commercial BOFU: compare children event outfits for weddings, baptisms, communions, arras, babies, siblings, comfort, fabrics and reuse",
+        "page_types_seen": [
+          "ecommerce ceremony category pages with product grids for dresses, boy outfits, baby outfits and arras clothing",
+          "brand/event category pages emphasizing ceremony looks, linen, cotton, elegance and comfort",
+          "editorial inspiration guides for children wedding outfits with author, images and styling sections",
+          "specialist boutique pages for Spanish-made ceremony, baptism and communion clothing"
+        ],
+        "coverage_gap": "Top results show products and inspiration, but often lack a neutral purchase framework by child role, movement, fabric, closures, climate, sibling coordination, returns to Canarias and second use after the event.",
+        "first_results_reviewed": [
+          "Kids Moda Infantil: specialist ceremony/baptism/communion ecommerce page with sections for girls ceremony dresses, boys arras outfits and baby baptism clothing, heavy product imagery and category copy.",
+          "Gocco eventos ceremonia: brand/category page for baby and children ceremony looks, including dresses, elegant boy outfits, baby clothing, linen, cotton and FAQ-style buying support.",
+          "Primark children wedding outfits guide: editorial inspiration page by Tamara Tavares with author, publication date, images and sections for boys, girls, babies, accessories and reusable occasionwear.",
+          "Kiabi ceremony guide: guide/category page structured by boy, girl, baby, fabrics and outfit selection for baptisms and weddings.",
+          "Amaya for Kids and La Boutique de AyA: ecommerce/listing pages for girl dressy outfits, ceremony jumpsuits and two-piece sets with brand/season framing."
+        ],
+        "youtube_video": "not included; no current YouTube result found that materially improved the buying decision beyond SERP pages and source links"
+      },
+      "sources": [
+        "https://www.modainfantilkids.com/",
+        "https://www.gocco.es/eventos-ceremonia",
+        "https://www.primark.com/es-es/a/inspiracion/ocasiones/conjuntos-para-ocasiones-especiales-para-ninos-ninas-y-bebes",
+        "https://www.kiabi.es/ropa-de-ceremonia-infantil_LP368396",
+        "https://laboutiquedeaya.com/en/collections/monos-de-nina-y-conjuntos-de-ceremonia-la-boutique-de-aya",
+        "https://amayaforkids.com/celebration-kids/joven/joven-conjuntos/",
+        "https://europa.eu/youreurope/business/product-requirements/labels-markings/textile-label/index_es.htm"
       ]
     }
   ],
