@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-07-25",
+  "last_run": "2026-07-28",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -328,6 +328,76 @@
         "https://amayaforkids.com/celebration-kids/joven/joven-conjuntos/",
         "https://europa.eu/youreurope/business/product-requirements/labels-markings/textile-label/index_es.htm"
       ]
+    },
+    {
+      "keyword": "mejores tiendas de complementos en Las Palmas",
+      "slug": "mejores-tiendas-complementos-las-palmas",
+      "title": "Mejores tiendas de complementos en Las Palmas: 10 opciones",
+      "url": "https://topitosmoda.com/blog/mejores-tiendas-complementos-las-palmas/",
+      "published_at": "2026-07-28",
+      "status": "published",
+      "verified_at": "2026-07-28T19:12:00+02:00",
+      "verified_commit": "6dc197e",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Mejores tiendas de complementos en Las Palmas: 10 opciones.",
+        "canonical": "https://topitosmoda.com/blog/mejores-tiendas-complementos-las-palmas/",
+        "image": "https://topitosmoda.com/assets/mejores-tiendas-complementos-las-palmas.jpg",
+        "blog_index": "contains /blog/mejores-tiendas-complementos-las-palmas/",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-tiendas-complementos-las-palmas/",
+        "desktop_render": "ok at 1440x1000 public Chrome headless screenshot, expected H1 and featured image visible, no obvious overlap",
+        "mobile_render": "ok at 390x844 public Chrome headless screenshot after explicit load wait, expected H1 and featured image visible, no obvious overlap"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-07-28",
+        "intent": "local commercial BOFU: compare shops for accessories in Las Palmas by accessory type, shopping zone, purchase risk, gift suitability and climate/use case",
+        "page_types_seen": [
+          "local directories and category listings for bisuteria/complementos",
+          "individual boutique and artisan shop homepages with product/category signals",
+          "shopping center and department-store pages emphasizing jewellery, bags and accessories with broad opening hours",
+          "brand locator/product pages for bags and accessories",
+          "review/directory pages with shallow editorial guidance"
+        ],
+        "coverage_gap": "Current results help locate stores but rarely compare which format fits each accessory need: gift, bag, jewellery, artisan piece, event styling, climate durability, return/change policy or outfit coordination.",
+        "first_results_reviewed": [
+          "Tiendas Las Palmas and Paginas Amarillas: directory-style results for bisuteria/complementos, useful for discovery but thin for purchase criteria.",
+          "Elba Luna and M by Maria: boutique pages combining fashion and accessories, strong for outfit-context decisions and local shopping intent.",
+          "Indiarte and Atelier Maria Secretos: artisan accessory pages centered on hats, bags, jewellery and handmade/local identity.",
+          "Longchamp and El Corte Ingles/CC Las Arenas: brand or shopping-center pages for bags, jewellery, accessories, hours and broad commercial availability.",
+          "Wanderlog/Cylex-style pages: review/directory signals with multimedia but weaker editorial standards."
+        ],
+        "youtube_video": "not included; no current YouTube result found that materially improved the buying decision beyond SERP pages and source links"
+      },
+      "sources": [
+        "https://www.tiendaslaspalmas.com/shopping/tiendas/bisuteria-y-complementos",
+        "https://elbaluna.es/",
+        "https://indiarte.es/",
+        "https://ateliermariasecretos.es/",
+        "https://www.longchamp.com/es/es/shops/es042",
+        "https://centroscomerciales.elcorteingles.es/es/eci/centros/centro-comercial-siete-palmas",
+        "https://www.gobiernodecanarias.org/comercio/comerciolocal/"
+      ],
+      "editorial_review": {
+        "word_count_article_body": 2070,
+        "format": "local BOFU listicle with comparison table, direct answer, TOC and FAQ schema",
+        "internal_links": [
+          "/blog/mejores-vestidos-mujer-canarias/",
+          "/blog/prenda-merece-armario/",
+          "/complementos/",
+          "/blog/mejores-boutiques-las-palmas-de-gran-canaria/"
+        ],
+        "external_links": [
+          "https://www.tiendaslaspalmas.com/shopping/tiendas/bisuteria-y-complementos",
+          "https://elbaluna.es/",
+          "https://www.indiarte.es/",
+          "https://www.gobiernodecanarias.org/comercio/comerciolocal/"
+        ],
+        "checks": "Intent, cannibalization, H1, title, meta description, canonical, Open Graph, image alt, FAQ schema, links, factual claims and template residue reviewed before build."
+      }
     }
   ],
   "skipped": [],
