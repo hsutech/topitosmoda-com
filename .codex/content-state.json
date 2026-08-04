@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-03",
+  "last_run": "2026-08-04",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -501,6 +501,46 @@
         "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX%3A52024DC0258",
         "https://guiademicroempresas.es/empresa-de-trajes/las-palmas/mipetit-moda-infantil/",
         "https://localitybiz.es/canarias/tiendas-de-beb%C3%A9s-y-embarazo-en-las-palmas-de-gran-canaria"
+      ]
+    },
+    {
+      "keyword": "dónde comprar ropa infantil en Las Palmas",
+      "slug": "donde-comprar-ropa-infantil-las-palmas",
+      "title": "Dónde comprar ropa infantil en Las Palmas: 10 opciones y cómo elegir",
+      "url": "https://topitosmoda.com/blog/donde-comprar-ropa-infantil-las-palmas/",
+      "published_at": "2026-08-04",
+      "status": "published",
+      "verified_at": "2026-08-04T19:16:00+02:00",
+      "verified_commit": "e469690",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "h1": "Dónde comprar ropa infantil en Las Palmas: 10 opciones y cómo elegir.",
+        "canonical": "https://topitosmoda.com/blog/donde-comprar-ropa-infantil-las-palmas/",
+        "image": "https://topitosmoda.com/assets/donde-comprar-ropa-infantil-las-palmas.jpg",
+        "blog_index": "contains /blog/donde-comprar-ropa-infantil-las-palmas/",
+        "sitemap": "contains https://topitosmoda.com/blog/donde-comprar-ropa-infantil-las-palmas/",
+        "desktop_render": "ok at 1440x1000, expected H1/canonical, featured image loaded, no horizontal overflow",
+        "mobile_render": "ok at 390x844, expected H1/canonical, featured image loaded, no horizontal overflow"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas de Gran Canaria",
+        "intent": "local transactional BOFU: choose where to buy children clothing by need, location, stock, advice and risk before visiting or ordering",
+        "page_types_seen": [
+          "local boutique and store pages",
+          "directories and category listings",
+          "shopping-center and department-store pages",
+          "weak local listicles with limited buying methodology"
+        ],
+        "coverage_gap": "Results list stores and addresses, but rarely explain which buying format fits baby, daily basics, ceremony, urgent shopping or online purchase from Canarias."
+      },
+      "sources": [
+        "https://boutiquechupete.com/",
+        "https://mipetit.ueniweb.com/",
+        "https://www.paginasamarillas.es/a/tienda-de-ropa-infantil/las-palmas/gran-canaria/",
+        "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas"
       ]
     }
   ],
