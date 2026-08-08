@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-04",
+  "last_run": "2026-08-08",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -541,6 +541,102 @@
         "https://mipetit.ueniweb.com/",
         "https://www.paginasamarillas.es/a/tienda-de-ropa-infantil/las-palmas/gran-canaria/",
         "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas"
+      ]
+    },
+    {
+      "keyword": "Cómo crear imágenes de campaña para un ecommerce de moda con IA",
+      "slug": "como-crear-imagenes-campana-ecommerce-moda-ia",
+      "title": "Cómo crear imágenes de campaña para un ecommerce de moda con IA",
+      "url": "https://topitosmoda.com/blog/como-crear-imagenes-campana-ecommerce-moda-ia/",
+      "published_at": "2026-08-06",
+      "status": "published",
+      "verified_at": "2026-08-08T19:03:28+02:00",
+      "verified_commit": "766f795610d8689fc7f0e3272db4fb5f86a70824",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "h1": "Cómo crear imágenes de campaña para un ecommerce de moda con IA",
+        "canonical": "https://topitosmoda.com/blog/como-crear-imagenes-campana-ecommerce-moda-ia/",
+        "image": "https://topitosmoda.com/assets/como-crear-imagenes-campana-ecommerce-moda-ia.jpg",
+        "blog_index": "contains /blog/como-crear-imagenes-campana-ecommerce-moda-ia/ and 14 notas before new article",
+        "sitemap": "contains https://topitosmoda.com/blog/como-crear-imagenes-campana-ecommerce-moda-ia/",
+        "backlink": "exactly one followed editorial link with anchor Magnific to https://www.magnific.com/ai/image-generator"
+      },
+      "serp_observations": {
+        "market": "Google ES / Spanish ecommerce and fashion retail, checked 2026-08-06",
+        "intent": "commercial-informational: create AI-assisted campaign banners, seasonal concepts and social assets for fashion ecommerce while preserving product accuracy",
+        "page_types_seen": [
+          "AI image generator landing pages",
+          "ecommerce image-generation guides",
+          "product feed and apparel image guidelines",
+          "AI transparency and synthetic-content guidance"
+        ],
+        "coverage_gap": "Many results discuss tools or generic AI image generation, but fewer explain a fashion-specific editorial workflow for campaign assets without misrepresenting real products."
+      },
+      "sources": [
+        "https://www.shopify.com/es/blog/generador-de-imagenes-con-ia",
+        "https://support.google.com/merchants/answer/6324350?hl=en",
+        "https://support.google.com/merchants/answer/7348545?hl=en",
+        "https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content",
+        "https://www.magnific.com/ai/image-generator"
+      ]
+    },
+    {
+      "keyword": "dónde comprar vestidos de niña en Canarias",
+      "slug": "donde-comprar-vestidos-nina-canarias",
+      "title": "Dónde comprar vestidos de niña en Canarias: guía para elegir tienda",
+      "url": "https://topitosmoda.com/blog/donde-comprar-vestidos-nina-canarias/",
+      "published_at": "2026-08-08",
+      "status": "published",
+      "verified_at": "2026-08-08T19:16:00+02:00",
+      "publication_commit": "3929619ccf7903043cd057a90cf241b2a741e854",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Dónde comprar vestidos de niña en Canarias: guía para elegir tienda.",
+        "canonical": "https://topitosmoda.com/blog/donde-comprar-vestidos-nina-canarias/",
+        "image": "https://topitosmoda.com/assets/donde-comprar-vestidos-nina-canarias.jpg",
+        "blog_index": "contains /blog/donde-comprar-vestidos-nina-canarias/ and 15 notas",
+        "sitemap": "contains https://topitosmoda.com/blog/donde-comprar-vestidos-nina-canarias/",
+        "desktop_render": "public Chrome headless 1440x1000, expected hero and featured image visible, nonblank screenshot",
+        "mobile_render": "public Chrome headless 390x844, expected hero and featured image visible, nonblank screenshot"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-08-08",
+        "intent": "local commercial BOFU: choose where to buy girls dresses in Canarias by occasion, fit, ceremony needs, local advice, stock, delivery and returns",
+        "page_types_seen": [
+          "local Canary boutique and artisan pages",
+          "Las Palmas baby and kids fashion ecommerce pages",
+          "ceremony-focused kids fashion ecommerce pages",
+          "department-store and shopping-center pages",
+          "regional category pages with limited editorial buying advice"
+        ],
+        "coverage_gap": "Top results list shops, products or ceremony categories, but rarely compare purchase channels by risk: fitting, climate, textile label, delivery to Canarias, changes and event deadline.",
+        "first_results_reviewed": [
+          "Maruchy: Canary artisan page with ceremony and communion dresses for girls, custom/contact-oriented flow and strong visual gallery.",
+          "Boutique Chupete: Las Palmas baby and kids fashion shop with categories for girl, baptism/events, stock signals and physical-store positioning.",
+          "Kids Moda Infantil: ceremony, baptism and communion ecommerce focused on Spanish kids occasionwear.",
+          "Aiana Larocca: ceremony dresses and suits page surfaced with delivery/change conditions including Canarias in the SERP snippet.",
+          "Danilaura: Canarias-only ecommerce category for ceremony products from Fuerteventura.",
+          "El Corte Inglés Siete Palmas: local department-store page with Las Palmas address, hours and kids fashion signals.",
+          "EU textile-label guidance and AEMET climate normals used for fabric/composition and climate-buying criteria."
+        ],
+        "youtube_video": "not included; no current YouTube result materially improved the purchase decision beyond store/category/source links"
+      },
+      "sources": [
+        "https://maruchy.es/",
+        "https://boutiquechupete.com/",
+        "https://www.modainfantilkids.com/",
+        "https://aianalarocca.com/ropa-nina-nino-ceremonias/vestidos-trajes",
+        "https://danilaura.online/categoria/ceremonias/",
+        "https://www.elcorteingles.es/centroscomerciales/es/eci/centros/centro-comercial-siete-palmas",
+        "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+        "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo"
       ]
     }
   ],
