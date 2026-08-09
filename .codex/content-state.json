@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-08",
+  "last_run": "2026-08-09",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -638,6 +638,69 @@
         "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
         "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?k=coo"
       ]
+    },
+    {
+      "keyword": "mejores vestidos para comunión de invitada",
+      "slug": "mejores-vestidos-comunion-invitada",
+      "title": "Mejores vestidos para comunión de invitada: 10 opciones",
+      "url": "https://topitosmoda.com/blog/mejores-vestidos-comunion-invitada/",
+      "published_at": "2026-08-09",
+      "status": "published",
+      "verified_at": "2026-08-09T19:18:30+02:00",
+      "publication_commit": "2ade17436f4f8e0e30a0c6bbf0a7a2e193640af0",
+      "verified_commit": "2ade17436f4f8e0e30a0c6bbf0a7a2e193640af0",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Mejores vestidos para comunión de invitada: 10 opciones.",
+        "canonical": "https://topitosmoda.com/blog/mejores-vestidos-comunion-invitada/",
+        "image": "https://topitosmoda.com/assets/mejores-vestidos-comunion-invitada.jpg",
+        "blog_index": "contains /blog/mejores-vestidos-comunion-invitada/ and 16 notas",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-vestidos-comunion-invitada/",
+        "desktop_render": "public Chrome headless screenshot ok at 1440x1000, H1 and featured image visible, no obvious overlap",
+        "mobile_render": "public Chrome headless screenshot ok at 390x844, H1 and featured image visible, no obvious overlap"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-08-09",
+        "intent": "commercial BOFU: compare communion guest dresses by protocol, daytime formality, color, fabric, comfort, climate, accessories, ecommerce risk and reuse",
+        "page_types_seen": [
+          "boutique blog guides focused on communion guest looks and product categories",
+          "retail/editorial protocol guides for communion, baptism and wedding guests",
+          "fashion magazine trend roundups for guest dresses and celebrities/inspiration",
+          "ecommerce category pages for communion guest dresses with product grids and FAQs"
+        ],
+        "coverage_gap": "Top results explain protocol and inspiration, but rarely combine a purchase-first comparison of dress types with Canary Islands climate, textile-label checks, online return risk and second-life wardrobe criteria.",
+        "first_results_reviewed": [
+          "Capriche: 2026 boutique guide with communion context, light colors, floral dresses, two-piece alternatives, suits and accessories; strong product-led angle.",
+          "Primeriti / El Corte Ingles: older but relevant communion styling guide with index, midi guidance, shoe comfort and alternatives with trousers.",
+          "Calendula: 2026 protocol guide for communion guests focused on not taking protagonism, errors and family/daytime context.",
+          "Glamour Spain: 2026 protocol guide covering boda, bautizo and comunion, with emphasis on context, role, length, colors and accessories.",
+          "Invitadísima category: ecommerce landing page with communion guest dresses, midi recommendation, fabrics, colors, accessories and FAQs.",
+          "Bruna and Nuria Cobo: boutique/blog guides focused on communion guest dress selection, pastel colors, balance and comfort."
+        ],
+        "youtube_video": "not included; no current YouTube result found that materially improved the buying decision beyond article sources and product/protocol SERP coverage"
+      },
+      "sources": [
+        "https://capriche.es/blogs/vestidos/guia-de-invitada-de-comunion-que-ponerse-para-ser-la-mejor-vestida",
+        "https://www.primeriti.es/blog/moda/como-vestir-para-una-comunion/",
+        "https://www.calendula.shop/blog/protocolo-vestimenta-comunion-invitados/",
+        "https://www.glamour.es/articulos/protocolo-invitadas-boda-bautizo-comunion",
+        "https://15450.p.syniva.es/es/7-vestidos-invitada-comunion",
+        "https://www.bruna.es/blogs/archivo/como-elegir-vestido-perfecto-comunion",
+        "https://nuriacobo.com/blogs/vestir-con-estilo/como-vestir-para-una-comunion-1",
+        "https://europa.eu/youreurope/business/product-requirements/labels-markings/textile-label/index_es.htm",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones",
+        "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos/ayuda"
+      ],
+      "featured_image": {
+        "path": "src/assets/mejores-vestidos-comunion-invitada.jpg",
+        "alt": "Vestidos de invitada para comunión en tonos pastel con sandalias, clutch, pendientes, muestras de tejido y cuaderno de estilo",
+        "generator": "built-in imagegen",
+        "prompt_summary": "photorealistic editorial boutique still life with communion guest dress options, accessories, textile swatches and notebook; no people, logos or readable text"
+      }
     }
   ],
   "skipped": [],
