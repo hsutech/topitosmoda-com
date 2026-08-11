@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-09",
+  "last_run": "2026-08-11",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -701,6 +701,67 @@
         "generator": "built-in imagegen",
         "prompt_summary": "photorealistic editorial boutique still life with communion guest dress options, accessories, textile swatches and notebook; no people, logos or readable text"
       }
+    },
+    {
+      "keyword": "mejores conjuntos para bautizos",
+      "slug": "mejores-conjuntos-para-bautizos",
+      "title": "Mejores conjuntos para bautizos: 10 ideas para acertar",
+      "url": "https://topitosmoda.com/blog/mejores-conjuntos-para-bautizos/",
+      "published_at": "2026-08-11",
+      "status": "published",
+      "verified_at": "2026-08-11T19:16:40+02:00",
+      "publication_commit": "7331cbae305ad7f82ebd9d5e535941d02c3a2910",
+      "verified_commit": "7331cbae305ad7f82ebd9d5e535941d02c3a2910",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Mejores conjuntos para bautizos: 10 ideas para acertar.",
+        "canonical": "https://topitosmoda.com/blog/mejores-conjuntos-para-bautizos/",
+        "image": "https://topitosmoda.com/assets/mejores-conjuntos-para-bautizos.jpg",
+        "blog_index": "contains /blog/mejores-conjuntos-para-bautizos/ and 17 notas",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-conjuntos-para-bautizos/",
+        "desktop_render": "public Chrome headless screenshot ok at 1440x1000, H1 and featured image visible, no obvious overlap",
+        "mobile_render": "public Chrome headless screenshot ok at 390x844, H1 and featured image visible, no obvious overlap"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-08-11",
+        "intent": "commercial BOFU: choose baptism outfits for baby, children, mother, godmother and guests by ceremony formality, fabric, comfort, climate, online purchase risk and reuse",
+        "page_types_seen": [
+          "fashion media protocol/listicle guides for adult baptism guests",
+          "women-focused look guides with author, sections and outfit examples",
+          "kids ceremony ecommerce categories for baptism dresses, faldones, peleles and sets",
+          "kids fashion blog/listicle pages for 2026 ceremonies",
+          "brand or boutique ceremony pages with product-led positioning"
+        ],
+        "coverage_gap": "Top results split adult guest protocol from baby/kids ecommerce. Few combine baby comfort, family coordination, Canary Islands climate, textile-label checks, online returns and reusable outfit criteria in one purchase-first guide.",
+        "first_results_reviewed": [
+          "Divinity: 2026 guide with 9 looks for baptism, emphasizing daytime discretion, relaxed elegance, suits, midi dresses, skirts and two-piece options.",
+          "Diario Femenino: 2025 guide with table-of-contents signals, author attribution, guest outfit criteria, pastel colors, midi dresses, lightweight fabrics and comfortable footwear.",
+          "Delfin Moda Infantil: ecommerce category for baby baptism sets, boy/girl/unisex options, Spanish-made signals, soft fabrics and ceremony positioning.",
+          "Moda Infantil Kids baptism category: ecommerce page for girl baptism clothing, faldones, jesusitos, peleles, ceremony sets and Spanish kids fashion brands.",
+          "Moda Infantil Kids blog: 2026 kids ceremony look guide covering communions, baptisms, weddings and special events with trend and comfort angle.",
+          "Hola Fashion: trend listicle for communions and baptisms with made-in-Spain looks and visual product inspiration.",
+          "Hola Padres: 2026 branded-content kids looks for weddings, baptisms and communions, focused on elegant and comfortable girls outfits.",
+          "Paqui Barroso: ceremony boutique page for communion, baptism and ceremony clothing with children-focused product categories."
+        ],
+        "youtube_video": "not included; no current YouTube result materially improved the purchase decision beyond accessible SERP pages and official sources"
+      },
+      "sources": [
+        "https://www.divinity.es/moda/20260128/como-vestir-bautizo-looks-ir-impecable_18_013590865.html",
+        "https://www.diariofemenino.com/articulos/moda/vestidos/6-utiles-consejos-para-vestirse-en-un-bautizo-como-invitada/",
+        "https://www.delfinmodainfantil.com/c584784-conjuntos-de-bautizo.html",
+        "https://www.modainfantilkids.com/c571388-bautizo-nina.html",
+        "https://www.modainfantilkids.com/blog/p31348-looks-infantiles-para-comuniones-bautizos-y-bodas-2026-elegantes-comodos-y-perfectos-para-cada-evento.html",
+        "https://www.hola.com/fashion/tendencias/2024042777243/looks-invitada-comuniones-bautizos-tendencia/",
+        "https://www.hola.com/padres/20260513899976/ninias-comodas-elegantes-looks-temporada-bodas-bautizos-comuniones/",
+        "https://www.paquibarroso.es/",
+        "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+        "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos",
+        "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+      ]
     }
   ],
   "skipped": [],
