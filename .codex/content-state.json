@@ -777,9 +777,9 @@
       "url": "https://topitosmoda.com/blog/zapatillas-comodas-mujer-clima-calido/",
       "language": "es",
       "market": "Google ES",
-      "status": "prepared",
+      "status": "published",
       "publicationDate": "2026-08-13",
-      "publishedCommit": null,
+      "publishedCommit": "2cc27fc",
       "serpResearch": {
         "date": "2026-08-13",
         "queries": [
@@ -815,13 +815,23 @@
         "youtubeEmbed": null
       },
       "qa": {
-        "editorialSecondPass": "pending",
-        "build": "pending",
-        "localVerification": "pending",
-        "liveVerification": "pending",
-        "verifiedAt": null,
-        "verifiedChecks": []
-      }
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-08-13T12:15:00+02:00",
+        "verifiedChecks": [
+          "HTTP 200",
+          "One H1",
+          "Self-referencing canonical",
+          "Featured image returns image content",
+          "Article appears in blog or journal index",
+          "Article appears in sitemap",
+          "Exactly one approved followed editorial backlink with the approved anchor",
+          "Responsive desktop and mobile QA passed"
+        ]
+      },
+      "commit": "2cc27fc"
     }
   ]
 }
