@@ -766,5 +766,62 @@
   ],
   "skipped": [],
   "pending_verification": [],
-  "pushed_unverified": []
+  "pushed_unverified": [],
+  "lastUpdated": "2026-08-13",
+  "articles": [
+    {
+      "keyword": "zapatillas cómodas de mujer para clima cálido: materiales, horma y suela",
+      "priority": "Campaign",
+      "slug": "zapatillas-comodas-mujer-clima-calido",
+      "title": "Zapatillas cómodas de mujer para clima cálido: materiales, horma y suela",
+      "url": "https://topitosmoda.com/blog/zapatillas-comodas-mujer-clima-calido/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "prepared",
+      "publicationDate": "2026-08-13",
+      "publishedCommit": null,
+      "serpResearch": {
+        "date": "2026-08-13",
+        "queries": [
+          "Zapatillas cómodas de mujer para clima cálido: materiales, horma y suela"
+        ],
+        "observations": [
+          "SERP reviewed for intent, competing formats, entities, structure and content gaps.",
+          "Article differentiated for the source domain and its audience."
+        ],
+        "sources": [
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/palmas-de-gran-canaria-las-id35016",
+          "https://www.orthoinfo.org/en/staying-healthy/shoes-finding-the-right-fit/",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit"
+        ]
+      },
+      "content": {
+        "format": "editorial guide/comparison",
+        "targetWords": "1300-2200",
+        "internalLinks": [
+          "https://topitosmoda.com/moda-casual/",
+          "https://topitosmoda.com/colecciones/",
+          "https://topitosmoda.com/blog/mejores-vestidos-mujer-canarias/",
+          "https://topitosmoda.com/blog/armario-basico-femenino/"
+        ],
+        "externalLinks": [
+          "https://barefootopiniones.com/barefoot-pies-anchos-guia-completa/",
+          "https://www.aemet.es/es/eltiempo/prediccion/municipios/palmas-de-gran-canaria-las-id35016",
+          "https://www.orthoinfo.org/en/staying-healthy/shoes-finding-the-right-fit/",
+          "https://www.footcaremd.org/resources/how-to-help/10-points-of-proper-shoe-fit"
+        ],
+        "featuredImage": "/assets/zapatillas-comodas-clima-calido.webp",
+        "featuredImageAlt": "Mujer con conjunto de lino y zapatillas amplias transpirables en una boutique luminosa de Canarias",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "pending",
+        "build": "pending",
+        "localVerification": "pending",
+        "liveVerification": "pending",
+        "verifiedAt": null,
+        "verifiedChecks": []
+      }
+    }
+  ]
 }
