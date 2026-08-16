@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-11",
+  "last_run": "2026-08-16",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -767,7 +767,7 @@
   "skipped": [],
   "pending_verification": [],
   "pushed_unverified": [],
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-16",
   "articles": [
     {
       "keyword": "zapatillas cómodas de mujer para clima cálido: materiales, horma y suela",
@@ -832,6 +832,81 @@
         ]
       },
       "commit": "2cc27fc"
+    },
+    {
+      "keyword": "mejores looks familiares para celebraciones",
+      "priority": "High",
+      "slug": "mejores-looks-familiares-celebraciones",
+      "title": "Mejores looks familiares para celebraciones: 10 ideas",
+      "url": "https://topitosmoda.com/blog/mejores-looks-familiares-celebraciones/",
+      "language": "es",
+      "market": "Google ES / Canarias",
+      "status": "published",
+      "publicationDate": "2026-08-16",
+      "publishedCommit": "51f5248",
+      "verifiedCommit": "51f5248",
+      "serpResearch": {
+        "date": "2026-08-16",
+        "queries": [
+          "mejores looks familiares para celebraciones moda infantil familia ceremonia España",
+          "looks familiares coordinados celebraciones madre hija niños boda bautizo comunión",
+          "ropa a juego familia niños ceremonia España"
+        ],
+        "observations": [
+          "SERP intent is commercial BOFU: users compare coordinated family looks for baptisms, communions, weddings of day, family photos and ceremony purchases.",
+          "Comparable results include twinning guides, mother-daughter coordination pages, kids ceremony ecommerce categories, sibling matching retail pages and official sources for textile labels, climate and online returns.",
+          "Content gap: most results either sell identical matching outfits or address one subgroup; the article covers full-family coordination by palette, fabric, age, protagonist hierarchy, climate and return risk."
+        ],
+        "sources": [
+          "https://www.c-and-a.com/es/es/shop/twinning",
+          "https://www.gocco.com/es_ES/madre-e-hija",
+          "https://iqualshop.com/",
+          "https://www.elcorteingles.es/moda-infantil/ceremonia/",
+          "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ]
+      },
+      "content": {
+        "format": "BOFU listicle/comparison guide",
+        "wordCount": 2159,
+        "internalLinks": [
+          "https://topitosmoda.com/blog/mejores-conjuntos-infantiles-para-eventos/",
+          "https://topitosmoda.com/blog/mejores-looks-madre-e-hija/",
+          "https://topitosmoda.com/blog/mejores-conjuntos-para-bautizos/",
+          "https://topitosmoda.com/blog/mejores-vestidos-comunion-invitada/",
+          "https://topitosmoda.com/blog/mejores-tiendas-complementos-las-palmas/"
+        ],
+        "externalLinks": [
+          "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos",
+          "https://www.c-and-a.com/es/es/shop/twinning",
+          "https://europa.eu/youreurope/business/product-rules-compliance/textiles-and-footwear/textile-label/index_es.htm",
+          "https://portal-cec.consumo.gob.es/es/informacion-general/compras-online/devoluciones"
+        ],
+        "featuredImage": "/assets/mejores-looks-familiares-celebraciones.png",
+        "featuredImageAlt": "Mesa de boutique con vestido pastel de mujer, vestido infantil, camisa de lino, pelele de bebé, cárdigan y muestras textiles para coordinar looks familiares de celebración",
+        "youtubeEmbed": null
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "lint": "passed (no lint script defined)",
+        "tests": "passed (no test script defined)",
+        "localVerification": "passed",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-08-16T10:06:30+02:00",
+        "verifiedChecks": [
+          "HTTP 200 for article, blog, sitemap and featured image",
+          "One H1 with expected text",
+          "Self-referencing canonical",
+          "Open Graph image and featured image present",
+          "Article appears in blog listing with 18 notas",
+          "Article appears in sitemap",
+          "Article and FAQ schema present",
+          "Public desktop and mobile Chrome headless screenshots passed"
+        ]
+      },
+      "commit": "51f5248"
     }
   ]
 }
