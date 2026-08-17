@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-16",
+  "last_run": "2026-08-17",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -767,7 +767,7 @@
   "skipped": [],
   "pending_verification": [],
   "pushed_unverified": [],
-  "lastUpdated": "2026-08-16",
+  "lastUpdated": "2026-08-17T19:15:20+02:00",
   "articles": [
     {
       "keyword": "zapatillas cómodas de mujer para clima cálido: materiales, horma y suela",
@@ -907,6 +907,66 @@
         ]
       },
       "commit": "51f5248"
+    },
+    {
+      "keyword": "mejores prendas frescas para niños",
+      "slug": "mejores-prendas-frescas-ninos",
+      "title": "Mejores prendas frescas para niños: 10 básicos",
+      "url": "https://topitosmoda.com/blog/mejores-prendas-frescas-ninos/",
+      "published_at": "2026-08-17",
+      "status": "published",
+      "verified_at": "2026-08-17T19:15:20+02:00",
+      "verified_commit": "e86064e",
+      "publication_commit": "e86064e",
+      "verification": {
+        "article_http": 200,
+        "blog_http": 200,
+        "sitemap_http": 200,
+        "image_http": 200,
+        "image_content_type": "image/jpeg",
+        "h1": "Mejores prendas frescas para niños: 10 básicos.",
+        "canonical": "https://topitosmoda.com/blog/mejores-prendas-frescas-ninos/",
+        "image": "https://topitosmoda.com/assets/mejores-prendas-frescas-ninos.jpg",
+        "blog_index": "contains /blog/mejores-prendas-frescas-ninos/ and 19 notas",
+        "sitemap": "contains https://topitosmoda.com/blog/mejores-prendas-frescas-ninos/",
+        "desktop_render": "public Chrome headless screenshot 1440x1000 nonblank, expected H1 and featured image visible",
+        "mobile_render": "public Chrome headless screenshot 390x844 nonblank, expected H1 and featured image visible"
+      },
+      "serp_observations": {
+        "market": "Google ES / Las Palmas y Canarias, checked 2026-08-17",
+        "intent": "commercial BOFU/informational: choose fresh children clothing for summer, warm climates, daily play, beach/pool and practical buying decisions",
+        "page_types_seen": [
+          "ecommerce summer clothing categories for boys and girls with filters and FAQ copy",
+          "retail blog guides about dressing children in summer and choosing breathable fabrics",
+          "trend articles for childrens spring-summer 2026 fashion",
+          "health guidance about sun protection, heat and clothing coverage for children"
+        ],
+        "coverage_gap": "Top results discuss summer clothing or product categories, but few combine a purchase-first list by use case with textile-label checks, Canary Islands climate, sun protection and anti-cannibalization against cotton-only content.",
+        "first_results_reviewed": [
+          "Katia summer 2026 childrens fashion trends: editorial/trend page about fresh knitted garments, navy, pastel and cotton yarns.",
+          "El Corte Ingles linen children page: retail editorial about linen in childrens summer wardrobes.",
+          "Boboli summer clothing pages: ecommerce categories with FAQ guidance around breathable fabrics, sizing and summer care.",
+          "Lidl summer dressing guide: practical retail guide emphasizing breathable fabrics and sun-aware summer looks.",
+          "AEPED photoprotection guidance: authoritative health source for shade, hats, clothing coverage and sunscreen.",
+          "EU textile labeling guidance: authoritative source for fiber-composition labels in textile products."
+        ],
+        "youtube_video": "not included; no current video result materially improved the purchase decision beyond SERP sources and authoritative health/textile references"
+      },
+      "sources": [
+        "https://www.katia.com/blog/es/tendencias-moda-infantil-verano/",
+        "https://www.elcorteingles.es/contenidos/ninos/ropa-lino-para-ninos/",
+        "https://www.boboli.es/es/2468-ropa-verano-nino",
+        "https://www.lidl.es/c/como-vestir-a-los-ninos-y-ninas-en-verano/s10091303",
+        "https://www.aeped.es/enfamilia/salud-en-familia/preguntas-respuestas-sobre-fotoproteccion",
+        "https://europa.eu/youreurope/business/product-requirements/labels-markings/textile-label/index_es.htm",
+        "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos"
+      ],
+      "image": {
+        "path": "src/assets/mejores-prendas-frescas-ninos.jpg",
+        "alt": "Mesa luminosa con camisetas de algodón, camisa de lino, shorts, vestido, pelele de muselina, sombrero y sandalias para niños en clima cálido",
+        "generated_with": "built-in imagegen",
+        "note": "conceptual editorial still life, not evidence of a real product or result"
+      }
     }
   ]
 }
