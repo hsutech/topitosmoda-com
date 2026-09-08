@@ -1,6 +1,6 @@
 {
   "domain": "topitosmoda.com",
-  "last_run": "2026-08-17",
+  "last_run": "2026-09-08",
   "published": [
     {
       "keyword": "mejores tiendas de moda infantil en Las Palmas",
@@ -767,7 +767,7 @@
   "skipped": [],
   "pending_verification": [],
   "pushed_unverified": [],
-  "lastUpdated": "2026-08-17T19:15:20+02:00",
+  "lastUpdated": "2026-09-08T15:30:00+02:00",
   "articles": [
     {
       "keyword": "zapatillas cómodas de mujer para clima cálido: materiales, horma y suela",
@@ -966,6 +966,55 @@
         "alt": "Mesa luminosa con camisetas de algodón, camisa de lino, shorts, vestido, pelele de muselina, sombrero y sandalias para niños en clima cálido",
         "generated_with": "built-in imagegen",
         "note": "conceptual editorial still life, not evidence of a real product or result"
+      }
+    },
+    {
+      "keyword": "generador de vídeo IA para reels de moda",
+      "priority": "High",
+      "slug": "generador-video-ia-reels-moda-sin-falsear-producto",
+      "title": "Cómo usar un generador de vídeo con IA para crear reels de moda sin falsear el producto",
+      "url": "https://topitosmoda.com/blog/generador-video-ia-reels-moda-sin-falsear-producto/",
+      "language": "es",
+      "market": "Google ES",
+      "status": "ready_for_publication",
+      "publicationDate": "2026-09-08",
+      "serpResearch": {
+        "date": "2026-09-08",
+        "observations": [
+          "La SERP está dominada por páginas de herramientas que prometen UGC y reels instantáneos.",
+          "El artículo se diferencia con control de fidelidad del producto, continuidad y transparencia."
+        ],
+        "sources": [
+          "https://www.magnific.com/ai/docs/video-generator",
+          "https://support.google.com/merchants/answer/14743464?hl=es",
+          "https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems"
+        ]
+      },
+      "content": {
+        "format": "guía editorial de ecommerce",
+        "wordCount": 1518,
+        "internalLinks": [
+          "/blog/como-crear-imagenes-campana-ecommerce-moda-ia/",
+          "/vestidos-y-conjuntos/",
+          "/infantil/",
+          "/tienda/"
+        ],
+        "featuredImage": "/assets/generador-video-ia-reels-moda.webp",
+        "featuredImageAlt": "Mesa de moda con vestido coral, teléfono, storyboard y fotogramas abstractos para planificar un reel con IA"
+      },
+      "qa": {
+        "editorialSecondPass": "passed",
+        "build": "passed",
+        "localVerification": "passed",
+        "liveVerification": "not_run",
+        "verifiedAt": "2026-09-08T15:30:00+02:00",
+        "verifiedChecks": [
+          "One H1 and self-referencing canonical",
+          "Article and FAQ JSON-LD parse",
+          "Featured image loads",
+          "Blog index and sitemap include article",
+          "Desktop and mobile visual QA passed without horizontal overflow"
+        ]
       }
     }
   ]
