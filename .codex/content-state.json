@@ -976,8 +976,11 @@
       "url": "https://topitosmoda.com/blog/generador-video-ia-reels-moda-sin-falsear-producto/",
       "language": "es",
       "market": "Google ES",
-      "status": "ready_for_publication",
+      "status": "published",
       "publicationDate": "2026-09-08",
+      "publishedAt": "2026-09-08T14:51:19Z",
+      "publicationCommit": "95861cf",
+      "verificationCommit": "95861cf",
       "serpResearch": {
         "date": "2026-09-08",
         "observations": [
@@ -1006,14 +1009,16 @@
         "editorialSecondPass": "passed",
         "build": "passed",
         "localVerification": "passed",
-        "liveVerification": "not_run",
-        "verifiedAt": "2026-09-08T15:30:00+02:00",
+        "liveVerification": "passed",
+        "verifiedAt": "2026-09-08T14:51:19Z",
         "verifiedChecks": [
           "One H1 and self-referencing canonical",
           "Article and FAQ JSON-LD parse",
           "Featured image loads",
           "Blog index and sitemap include article",
-          "Desktop and mobile visual QA passed without horizontal overflow"
+          "Desktop and mobile visual QA passed without horizontal overflow",
+          "GitHub Actions deployment 34240557585 passed",
+          "Custom-domain article returned HTTP 200 with expected title, canonical and featured image"
         ]
       }
     }
