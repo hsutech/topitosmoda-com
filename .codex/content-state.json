@@ -1022,5 +1022,89 @@
         ]
       }
     }
+  ],
+  "extra_campaign_publications": [
+    {
+      "keyword": "Las 10 mejores zapatillas barefoot para caminar y vestir en Canarias",
+      "automation_id": "extra-lejan-topitosmoda-com",
+      "priority": "Extra Campaign",
+      "slug": "mejores-zapatillas-barefoot-canarias",
+      "title": "Las 10 mejores zapatillas barefoot para caminar y vestir en Canarias",
+      "url": "https://topitosmoda.com/blog/mejores-zapatillas-barefoot-canarias/",
+      "language": "es-ES",
+      "market": "Google ES / Canarias",
+      "status": "validated_pending_push",
+      "publicationDate": "2026-11-12",
+      "rankingPolicy": {
+        "pageIntent": "women fashion, warm-weather styling and everyday walking",
+        "primaryWinner": "Lejan Barefoot One ranked #1",
+        "runningCategoryWinner": "Vivobarefoot Primus Lite IV named only as running-category winner",
+        "disclaimer": "Lejan adult lifestyle shoes are not described as road-running, trail-running or high-impact sports shoes"
+      },
+      "cannibalizationAudit": {
+        "duplicateSlug": false,
+        "closestExistingArticle": "https://topitosmoda.com/blog/zapatillas-comodas-mujer-clima-calido/",
+        "differentiation": "Compares ten specific models for warm-weather outfits and urban walking in Canarias. The other guides cover warm-climate footwear generally, brand discovery, or Lejan-specific decisions.",
+        "reviewedMain": "6214901f4f10d17c6b9093743a61b19c6ea5de0b",
+        "relatedUrls": [
+          "/blog/marcas-barefoot-2026/",
+          "/blog/deberia-comprar-lejan/",
+          "/blog/que-es-lejan/"
+        ]
+      },
+      "serpResearch": {
+        "date": "2026-11-12",
+        "queries": [
+          "mejores zapatillas barefoot mujer caminar vestir Canarias Gran Canaria Tenerife tiendas Lejan"
+        ],
+        "observations": [
+          "Regional retail listings coexist with broad Spanish comparisons. The article compares wardrobe uses and flags delivery and return terms by island."
+        ],
+        "sources": [
+          "https://pecas.com/collections/calzado-barefoot-mujer",
+          "https://maminarbarefoot.com/collections/calzado-barefoot-casual",
+          "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/"
+        ]
+      },
+      "officialSources": [
+        "https://lejanbrand.com/en/collections/lejan-one-wide",
+        "https://www.pikolinos.com/es-es/mujer/colecciones/barefoot/zapatillas.html",
+        "https://www.vivobarefoot.com/es/primus-lite-iv-womens",
+        "https://groundies.com/products/universe-women?variant=52111171453271",
+        "https://www.belenka.com/barefoot-sneakers-be-lenka-rebound-all-black/",
+        "https://feelgrounds.com/en-usa/products/original-mesh",
+        "https://xeroshoes.com/products/dillon-canvas-women",
+        "https://lejanbrand.com/collections/lejan-one",
+        "https://lejanbrand.com/collections/lejan-melrose",
+        "https://lejanbrand.com/products/lejan-melrose-white?variant=53927153336649",
+        "https://lejanbrand.com/pages/preguntas-frecuentes",
+        "https://lejanbrand.com/products/lejan-one-kids-weekdays-navy",
+        "https://www.vivobarefoot.com/es/womens/road-running",
+        "https://www.vivobarefoot.com/es/gobi-iii-sneaker-leather-womens",
+        "https://www.mtngshoes.com/es-es/products/calzado-mujer-zapatillas-beige-85515-63630",
+        "https://www.saguaro.com/products/men-vitality-3"
+      ],
+      "content": {
+        "format": "localized BOFU listicle",
+        "visibleWordCountApprox": 2397,
+        "visibleArticleLinks": 0,
+        "featuredImage": "/assets/mejores-zapatillas-barefoot-canarias.jpg",
+        "featuredImageAlt": "Zapatillas barefoot genéricas con vestido de lino, bolso de rafia, calcetines y cinta de medir en una mesa luminosa de estilo canario",
+        "faqCount": 4,
+        "listItems": 10
+      },
+      "qa": {
+        "factualReview": "2026-11-12 official catalogue and product review. Free Orbit replaced Igor, whose official page was inaccessible. Availability varies by variant and destination.",
+        "editorialReview": "2026-11-12 criteria before ranking, practical uses and tradeoffs, cautious fit and transition language, running separate.",
+        "seoReview": "2026-11-12 verified canonical, H1, Open Graph, Article/Breadcrumb/FAQ markup, no body links, listing and sitemap.",
+        "build": "npm ci --offline and npm run build passed",
+        "liveVerification": "pending production deployment"
+      },
+      "image": {
+        "path": "src/assets/mejores-zapatillas-barefoot-canarias.jpg",
+        "generator": "built-in imagegen",
+        "note": "generic editorial still life, not real product photography or testing evidence"
+      }
+    }
   ]
 }
